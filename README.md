@@ -1,2 +1,2 @@
 # Ordinem
-Proyecto final de tercer semestre de Diseño de Software Tercer Semestre
+Proyecto final de tercer semestre de Diseño de Software.
