@@ -1,0 +1,13 @@
+Este es nuestro mantenimiento a las colecciones que realizamos a nuestro Sistema ORDINEM
+
+COLECCIONES
+usuarios
+tiendas
+distribuidoras
+productos
+carritos
+registros
+
+Algunas de estas colecciones tienen documentos incrustados.
+
+Funciona en el puerto 5000 con DB: Ordinem
